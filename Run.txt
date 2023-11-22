@@ -1,0 +1,6 @@
+- Tạo database từ hbet88.sql trên xampp
+- mở project trên visual studio, trên terminal gõ: 
+    php -S localhost:8000/html/dangNhap.html   (*có thể thay cổng 8000 thành số khác*)
+- Trên terminal sẽ hiện ra dòng:
+    http://localhost:8000/html/dangNhap.html
+    Click vào và chạy
